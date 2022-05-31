@@ -1,0 +1,11 @@
+.nav_link {
+  font-size: "18px";
+  font-weight: 400;
+  text-decoration: "none";
+  margin: "0 12px";
+  color: "white";
+  // change color on hover
+  &:hover {
+    color: "red";
+  }
+}
